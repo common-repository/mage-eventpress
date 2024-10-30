@@ -1,0 +1,1 @@
+<h2><?php echo get_the_title($event_id); ?></h2>
